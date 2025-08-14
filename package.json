@@ -20,7 +20,7 @@
     "express": "^5.1.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-router-dom": "^6.26.2",
+    "react-router-dom": "^6.8.1",
     "sirv": "^3.0.1",
     "typescript": "^4.9.5",
     "vite": "^7.1.2",
